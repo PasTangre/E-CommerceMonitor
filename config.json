@@ -1,0 +1,21 @@
+{
+    "telegram_token": "8223010697:AAFd7WNq1OUdT-d_9I_R8hIHoq1Eppssj3I",
+    "telegram_chatID": "546012796", 
+    "intervallo_ricerca": 180,
+    "ricerche": [
+        {
+            "ricerca": "lamincards",
+            "piattaforme": ["vinted", "ebay"]
+        }, {
+            "ricerca": "dragonball",
+            "piattaforme": ["vinted", "ebay"]
+        }, {
+            "ricerca": "lamincard",
+            "piattaforme": ["vinted", "ebay"]
+        }, {
+            "ricerca": "lamin cards",
+            "piattaforme": ["vinted", "ebay"]
+        }
+    ]
+        
+}
